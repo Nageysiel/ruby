@@ -1,6 +1,6 @@
 require_relative 'lib/adivinhar_numero.rb'
 
-#teste
+#teste #teste2
 jogo = AdivinharNumero.new
 
 until jogo.venceu do
