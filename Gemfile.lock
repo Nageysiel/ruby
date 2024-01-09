@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    tty-cursor (0.7.1)
+    tty-spinner (0.9.3)
+      tty-cursor (~> 0.7)
+
+PLATFORMS
+  arm64-darwin-23
+
+DEPENDENCIES
+  tty-spinner
+
+BUNDLED WITH
+   2.4.22
